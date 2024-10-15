@@ -6,5 +6,7 @@ public class test {
         System.out.println("nihao");
         System.out.println("nihao");
 
+        System.out.println("sdfsdfsdf");
+
     }
 }
